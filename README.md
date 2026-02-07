@@ -1,0 +1,71 @@
+# Vaulted Bets
+
+![Vaulted Bets Preview](https://via.placeholder.com/800x400?text=Vaulted+Bets+Preview)
+
+## 📌 Overview
+
+**Vaulted Bets** is a responsive landing page designed for an exclusive sports betting intelligence community. This project was built to demonstrate proficiency in core frontend technologies, focusing on creating an engaging user experience through interactive animations and a modern, high-conversion design.
+
+The site features a unique "Vault Door" entrance animation that sets the tone for the exclusive content within, followed by a clean, informative single-page layout.
+
+## 🚀 Features
+
+- **Interactive Entrance Animation**: A custom CSS/JS animation sequence simulating a vault door unlocking and opening to reveal the site content.
+- **Responsive Design**: Fully responsive layout that adapts seamlessly to desktop, tablet, and mobile devices.
+- **Smooth Navigation**: implemented smooth scrolling for better user navigation between sections.
+- **Dynamic Scroll Effects**: Utilizes the **Intersection Observer API** to trigger fade-in animations for content cards as the user scrolls.
+- **Modern UI/UX**: clean typography, consistent color palette, and hover effects to enhance engagement.
+- **Contact Form**: Integrated form handling with loading states and user feedback (simulated submission).
+
+## 🛠️ Tech Stack
+
+- **HTML5**: Semantic structure and layout.
+- **CSS3**: Custom animations, Flexbox, Grid, and responsive media queries.
+- **JavaScript (ES6+)**: DOM manipulation, event handling, logic for animations, and Intersection Observers.
+- **FontAwesome**: Iconography.
+- **Google Fonts**: Typography (Inter).
+
+## 📂 Project Structure
+
+```
+vaulted_bets/
+├── css/
+│   └── style.css       # Main stylesheet and animation definitions
+├── js/
+│   └── main.js         # Animation logic, scroll observers, and form handling
+├── index.html          # Main HTML structure
+└── README.md           # Project documentation
+```
+
+## ⚡ How to Run
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/vaulted-bets.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd vaulted-bets
+    ```
+3.  **Open the project:**
+    Simply open the `index.html` file in your preferred web browser.
+
+    *Tip: for the best experience, use a live server extension (like Live Server in VS Code) to view the site.*
+
+## 🧠 Learning Outcomes
+
+This project was built to solidify my understanding of:
+- **CSS Animations & Transitions**: Orchestrating complex animation sequences using keyframes and JavaScript timing.
+- **DOM Manipulation**: efficiently selecting and modifying page elements dynamically.
+- **Responsive Web Design**: creating layouts that work on any screen size without relying on heavy frameworks like Bootstrap.
+- **Web APIs**: Implementing the Intersection Observer API for performance-friendly scroll animations.
+
+## 🔮 Future Improvements
+
+- Add a backend service to handle actual form submissions.
+- Implement a user authentication system for the "Member Area".
+- Add real-time data integration for betting stats.
+
+---
+
+*Built with passion by Amlendu Pandey.*
