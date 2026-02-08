@@ -1,6 +1,10 @@
 # Vaulted Bets
 
-![Vaulted Bets Preview](https://via.placeholder.com/800x400?text=Vaulted+Bets+Preview)
+[Vaulted Bets Preview]
+<img width="1439" height="656" alt="Screenshot 2026-02-08 at 11 55 06 AM" src="https://github.com/user-attachments/assets/4f9b4fd2-8bf3-42d6-8a78-0aa4c833ed7f" />
+
+<img width="1439" height="656" alt="Screenshot 2026-02-08 at 11 55 24 AM" src="https://github.com/user-attachments/assets/2fe1afdb-4640-4f51-b3b0-dc4e486495c9" />
+
 
 ## 📌 Overview
 
